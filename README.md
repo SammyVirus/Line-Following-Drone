@@ -1,8 +1,8 @@
 # Line-Following-Drone
 
-1.  To see the simulation of drone movements in Gazebo: \
+1.  To see the simulation of drone movements in Gazebo: \\
         run the following command in a terminal: \
-               **roslaunch px4 mavros_posix_sitl.launch** 
+               **roslaunch px4 mavros_posix_sitl.launch** \
         in another terminal run: 
                **python line_follower.py** 
                 
