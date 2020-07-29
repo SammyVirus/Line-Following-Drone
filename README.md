@@ -11,3 +11,4 @@
 
 **2.** The ***"line_edge_detection.py"*** waits for the user to press a key other than ***'q'*** to move to next frame. This helps to visualize each frame properly. To close the script press 'q'. On pressing 'q', an image ***"defective frame.jpg"*** will be created automatically. So whenever you find that the line does not get detected properly in a frame, you can press 'q', and run the ***"defective.py"*** script to find the suitable parameters for that frame. 
 
+**3.** The ***"play_video.py"*** script also waits for a key to be pressed to move to next frame, ad quits on the press of ***'q'*** key.
