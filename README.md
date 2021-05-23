@@ -17,8 +17,8 @@
 
    ![](detected_line.jpg)
 
-   **1.** The Line in the frames, is detected using opencv edge detection. \n
-   **2.** Then we calculate, how much angle it makes with the vertical, and how far away it is from the center of the frame. \n
-   **3.** Based on the angle, we first align the drone with the line by adjusting yaw. \n
-   **4.** Then based on the offset, we align the drone with the center of the frame. \n
-   **5.** Once Angle, and offset are aligned, we move forward. \n
+   **1.** The Line in the frames, is detected using opencv edge detection.  
+   **2.** Then we calculate, how much angle it makes with the vertical, and how far away it is from the center of the frame.  
+   **3.** Based on the angle, we first align the drone with the line by adjusting yaw.  
+   **4.** Then based on the offset, we align the drone with the center of the frame.  
+   **5.** Once Angle, and offset are aligned, we move forward.  
